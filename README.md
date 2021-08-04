@@ -13,7 +13,9 @@
   <img align="center" alt="Micael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Micael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-  <img align="right" alt="Micael-Japan-Girl" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <!-- <img align="right" alt="Micael-Japan-Girl" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> -->
+  <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 </div>
   
   <hr>
