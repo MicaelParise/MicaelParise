@@ -1,4 +1,4 @@
-### Olá! eu me chamo Micael. Bem vindo(a) ao meu perfil. 🤓
+# Olá! eu me chamo Micael. Bem vindo(a) ao meu perfil. 🤓
 
 <hr>
 
@@ -20,7 +20,7 @@
   
   <hr>
 
-  ### Contato
+  ## Contato
   <div>
   <a href = "mailto:micaelgpchaves@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" target="_blank"></a>
 
@@ -29,7 +29,7 @@
   
   <hr>
   
-  ### Rede Social
+  ## Rede Social
   <div>
    <a href="https://www.instagram.com/micaelgpchaves/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
