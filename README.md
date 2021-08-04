@@ -1,4 +1,4 @@
-### Olá! eu sou o Micael. Bem vindo ao meu perfil.
+### Olá! eu me chamo Micael. Bem vindo(a) ao meu perfil. 🤓
 
 <hr>
 
