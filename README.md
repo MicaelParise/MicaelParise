@@ -26,12 +26,10 @@
 
   ## Contato
   <div>
-  <a href = "mailto:micaelchaveswork@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" target="_blank"></a>
+  <!-- <a href = "mailto:micaelchaveswork@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" target="_blank"></a> -->
 
-   <!-- <a href="https://t.me/MicaelChaves" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> -->
+   <a href="https://t.me/MicaelChaves" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   </div>
-  
-  <hr>
   
   ## Rede Social
   <div>
