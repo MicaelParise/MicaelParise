@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Olá! eu me chamo Micael. Bem vindo(a) ao meu perfil.</h3>
+  <h2>Olá! eu me chamo Micael. Bem vindo(a) ao meu perfil.</h2>
 </div>
 
 <div align="center">
@@ -35,7 +35,7 @@
 
   <hr>
   
-  <h4> Contato </h4>
+  <h3> Contato </h3>
   
   <a href="mailto:micaelchaveswork@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" width="110" height="27"> </a>
   <a href="https://t.me/MicaelChaves"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="110"> </a>
