@@ -36,7 +36,8 @@
   <hr>
   
   <h4> Contato </h4>
-  <!-- [<img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white">](mailto:micaelchaveswork@gmail.com) -->
-  <a href="https://t.me/MicaelChaves"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a> <br>
-  <a href="https://www.instagram.com/micaelgpchaves/"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"> </a>
+  
+  <a href="mailto:micaelchaveswork@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" width="110" height="27"> </a>
+  <a href="https://t.me/MicaelChaves"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="110"> </a>
+  <a href="https://www.instagram.com/micaelgpchaves/"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" width="110"> </a>
 </div>
