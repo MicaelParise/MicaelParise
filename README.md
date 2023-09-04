@@ -34,10 +34,10 @@
   <img align="center" alt="Micael-PHP" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Micael-Laravel" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
   
-  <p>Aprendendo:</p>
+  <!-- <p>Aprendendo:</p>
   
   <img align="center" alt="Micael-Dart" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img align="center" alt="Micael-Flutter" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="Micael-Flutter" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> -->
 
   <hr>
   
