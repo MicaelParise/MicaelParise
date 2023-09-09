@@ -8,9 +8,10 @@
 <h2 align="center">🌐 Redes Sociais:</h2>
 
 <div align="center">
+  <a href="https://t.me/MicaelChaves"><img src="https://img.shields.io/badge/Telegram-%233177B0.svg?&logo=telegram&logoColor=white"></a>
   <a href="https://instagram.com/micaelgpchaves"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
   <a href="https://linkedin.com/in/MicaelChaves"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="https://codepen.io/MicaelChaves"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href="https://codepen.io/MicaelChaves"><img src="https://img.shields.io/badge/Codepen-gray?&logo=codepen&logoColor=white"></a>
 </div>
 
 <hr>
