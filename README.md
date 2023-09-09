@@ -1,44 +1,44 @@
+# 💫 Sobre Mim:
+Laravel Engineer / Engenheiro Laravel
+
+Como Engenheiro Laravel, estou sempre buscando aprimorar minhas habilidades e conhecimentos em desenvolvimento de sistemas, estudando padrões e tendências atuais. Meu objetivo é aprender e compartilhar conhecimento, ajudando outros a crescerem profissionalmente junto comigo.
+
+## 🌐 Redes Sociais:
 <div align="center">
-  <h1>Olá! eu me chamo Micael. Bem vindo(a) ao meu perfil.</h1>
+  <a href="https://instagram.com/micaelgpchaves"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+  <a href="https://linkedin.com/in/MicaelChaves"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+  <a href="https://codepen.io/MicaelChaves"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 </div>
 
+# 💻 Habilidades Técnicas:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+# 📊 Status GitHub:
 <div align="center">
-  <a href="https://github.com/MicaelChaves">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MicaelChaves&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelChaves&layout=compact&langs_count=7&theme=dark">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MicaelChaves&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MicaelChaves&theme=midnight-purple&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelChaves&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
-<hr>
-
+<!-- ## 🏆 Troféus GitHub:
 <div align="center">
-  <a href="https://github.com/MicaelChaves">
-    <!-- <img align="" alt="Micael-Japan-Girl" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> -->
-    <img align="" alt="Micael-Programando" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-    <br>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=MicaelChaves&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4">
 </div>
 
-<div align="center">
-  <p>Programando em:</p>
-  
-  <!-- <img align="center" alt="Micael-HTML" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"> -->
-  <!-- <img align="center" alt="Micael-CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"> -->
-  <!-- <img align="center" alt="Micael-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> -->
-  <!-- <img align="center" alt="Micael-MySQL" height="60" width"70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> -->
-  <img align="center" alt="Micael-PHP" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Micael-Laravel" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-  
-  <!-- <p>Aprendendo:</p>
-  
-  <img align="center" alt="Micael-Dart" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img align="center" alt="Micael-Flutter" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) -->
 
-  <hr>
-  
-  <h3> Contato </h3>
-  
-  <a href="mailto:"> <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" width="110" height="27"> </a>
-  <a href="https://t.me/MicaelChaves"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="110"> </a>
-  <a href="https://www.instagram.com/micaelgpchaves/"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" width="110"> </a> -->
+### 🔝 Repositórios Mais Contribuídos
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=MicaelChaves&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
 </div>
