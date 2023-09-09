@@ -11,24 +11,23 @@
   <a href="https://t.me/MicaelChaves"><img src="https://img.shields.io/badge/Telegram-%233177B0.svg?&logo=telegram&logoColor=white"></a>
   <a href="https://instagram.com/micaelgpchaves"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
   <a href="https://linkedin.com/in/MicaelChaves"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="https://codepen.io/MicaelChaves"><img src="https://img.shields.io/badge/Codepen-gray?&logo=codepen&logoColor=white"></a>
+  <!-- <a href="https://codepen.io/MicaelChaves"><img src="https://img.shields.io/badge/Codepen-gray?&logo=codepen&logoColor=white"></a> -->
 </div>
 
 <hr>
 <h2 align="center">💻 Habilidades Técnicas:</h2>
 
 <div align="center">
-  
-  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Livewire](https://img.shields.io/badge/livewire-%23ff0077.svg?style=for-the-badge&logo=livewire&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-  ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
-  
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Livewire-%23ff0077.svg?style=for-the-badge&logo=livewire&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
+  <img src="https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/Forge-%230072C6.svg?style=for-the-badge&logo=forge&logoColor=white"> -->
 </div>
 
 <hr>
