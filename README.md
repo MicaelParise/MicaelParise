@@ -22,11 +22,11 @@
   <img src="https://img.shields.io/badge/Livewire-%23ff0077.svg?style=for-the-badge&logo=livewire&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
+  <!-- <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"> -->
   <img src="https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/Forge-%230072C6.svg?style=for-the-badge&logo=forge&logoColor=white"> -->
 </div>
 
