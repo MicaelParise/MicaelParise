@@ -19,7 +19,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Livewire-%23ff0077.svg?style=for-the-badge&logo=livewire&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/Livewire-%23ff0077.svg?style=for-the-badge&logo=livewire&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"> -->
