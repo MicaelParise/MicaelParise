@@ -26,13 +26,13 @@
 <hr>
 <h2 align="start">📊 Status GitHub:</h2>
 <div align="start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelChaves&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MicaelChaves&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
+  <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelChaves&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  <img width="478" src="https://github-contributor-stats.vercel.app/api?username=MicaelChaves&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
 </div>
 
 <div align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=MicaelChaves&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MicaelChaves&theme=midnight-purple&hide_border=true">
+  <img width="378" src="https://github-readme-stats.vercel.app/api?username=MicaelChaves&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true">
+  <img width="418" src="https://github-readme-streak-stats.herokuapp.com/?user=MicaelChaves&theme=midnight-purple&hide_border=true">
 </div>
 
 <!--
