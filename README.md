@@ -4,10 +4,12 @@
 
 <h3 align="center">💫 Sobre Mim:</h3>
 
-- Laravel Engineer / Engenheiro Laravel
+- Engenheiro Laravel | Especialista em TALL Stack
 
-- Como Engenheiro Laravel, estou sempre buscando aprimorar minhas habilidades e conhecimentos em desenvolvimento de sistemas, estudando padrões e tendências atuais. Meu objetivo é aprender e compartilhar conhecimento, ajudando outros a crescerem profissionalmente junto comigo.
+- Sou um Engenheiro Laravel dedicado a aprimorar constantemente minhas habilidades e conhecimentos em desenvolvimento de sistemas. Trabalho com o TALL Stack (Tailwind CSS, Alpine.js, Laravel, Livewire), uma combinação eficiente para criar aplicações web modernas e dinâmicas.
 
+  Estou sempre estudando as últimas tendências e melhores práticas do setor, com o objetivo de aprender e compartilhar conhecimento. Valorizo o crescimento colaborativo e procuro ajudar outros profissionais a evoluírem em suas carreiras.
+  
 <div align="center">
   <a href="https://instagram.com/micaelgpchaves"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
   <a href="https://linkedin.com/in/MicaelChaves"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
