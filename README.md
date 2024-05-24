@@ -1,20 +1,20 @@
-[![](https://visitcount.itsvg.in/api?id=MicaelChaves&icon=2&color=6)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=MicaelChaves&icon=2&color=6"></a>
+</div>
 
-<h2 align="start">💫 Sobre Mim:</h2>
+<h3 align="center">💫 Sobre Mim:</h3>
 
 - Laravel Engineer / Engenheiro Laravel
 
 - Como Engenheiro Laravel, estou sempre buscando aprimorar minhas habilidades e conhecimentos em desenvolvimento de sistemas, estudando padrões e tendências atuais. Meu objetivo é aprender e compartilhar conhecimento, ajudando outros a crescerem profissionalmente junto comigo.
 
-<h2 align="start">🌐 Redes Sociais:</h2>
-<div align="start">
-  <a href="https://t.me/MicaelChaves"><img src="https://img.shields.io/badge/Telegram-%233177B0.svg?&logo=telegram&logoColor=white"></a>
+<div align="center">
   <a href="https://instagram.com/micaelgpchaves"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
   <a href="https://linkedin.com/in/MicaelChaves"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 </div>
 
 <hr>
-<h2 align="start">💻 Habilidades Técnicas:</h2>
+<h3 align="center">💻 Habilidades Técnicas:</h3>
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=flat&logo=alpinedotjs&logoColor=%238BC0D0)
@@ -32,13 +32,13 @@
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white)
 
 <hr>
-<h2 align="start">📊 Status GitHub:</h2>
-<div align="start">
+<h3 align="center">📊 Status GitHub:</h3>
+
+<div align="center">
   <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelChaves&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   <img width="478" src="https://github-contributor-stats.vercel.app/api?username=MicaelChaves&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
 </div>
-
-<div align="start">
+<div align="center">
   <img width="378" src="https://github-readme-stats.vercel.app/api?username=MicaelChaves&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true">
   <img width="418" src="https://github-readme-streak-stats.herokuapp.com/?user=MicaelChaves&theme=midnight-purple&hide_border=true">
 </div>
