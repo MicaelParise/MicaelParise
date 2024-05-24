@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=MicaelChaves&icon=2&color=6)](https://visitcount.itsvg.in)
+
 <h2 align="start">💫 Sobre Mim:</h2>
 
 - Laravel Engineer / Engenheiro Laravel
@@ -9,19 +11,25 @@
   <a href="https://t.me/MicaelChaves"><img src="https://img.shields.io/badge/Telegram-%233177B0.svg?&logo=telegram&logoColor=white"></a>
   <a href="https://instagram.com/micaelgpchaves"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
   <a href="https://linkedin.com/in/MicaelChaves"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <!-- <a href="https://codepen.io/MicaelChaves"><img src="https://img.shields.io/badge/Codepen-gray?&logo=codepen&logoColor=white"></a> -->
 </div>
 
 <hr>
 <h2 align="start">💻 Habilidades Técnicas:</h2>
-<div align="start">
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white">
-</div>
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=flat&logo=alpinedotjs&logoColor=%238BC0D0)
+![Livewire](https://img.shields.io/badge/livewire-C54F82.svg?style=flat&logo=livewire&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Laravel Forge](https://img.shields.io/badge/LaravelForge-18b69b.svg?style=flat&logo=laravel&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white)
 
 <hr>
 <h2 align="start">📊 Status GitHub:</h2>
@@ -34,10 +42,3 @@
   <img width="378" src="https://github-readme-stats.vercel.app/api?username=MicaelChaves&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true">
   <img width="418" src="https://github-readme-streak-stats.herokuapp.com/?user=MicaelChaves&theme=midnight-purple&hide_border=true">
 </div>
-
-<!--
-<h2 align="center">🏆 Troféus GitHub:</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MicaelChaves&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4">
-</div>
--->
