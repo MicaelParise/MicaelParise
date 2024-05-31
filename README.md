@@ -4,7 +4,7 @@
 
 <h3 align="center">💫 Sobre Mim:</h3>
 
-- Engenheiro Laravel | Especialista em TALL Stack
+- Engenheiro Laravel | TALL Stack
 
 - Sou um Engenheiro Laravel dedicado a aprimorar constantemente minhas habilidades e conhecimentos em desenvolvimento de sistemas. Trabalho com o TALL Stack (Tailwind CSS, Alpine.js, Laravel, Livewire), uma combinação eficiente para criar aplicações web modernas e dinâmicas.
 
