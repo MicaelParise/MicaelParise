@@ -4,9 +4,9 @@
 
 <h3 align="center">💫 Sobre Mim:</h3>
 
-- Engenheiro Laravel | LIVT Stack | TALL Stack
+- Engenheiro Laravel | LIVT Stack
 
-- Sou um Engenheiro Laravel dedicado a aprimorar constantemente minhas habilidades e conhecimentos em desenvolvimento de sistemas. Trabalho com o LIVT Stack (Laravel, Inertia, Vue, Tailwind CSS), uma combinação eficiente para criar aplicações web modernas e dinâmicas. Também trabalho com o conjunto TALL Stack (Tailwind CSS, Alpine.js, Laravel, Livewire), que também visa em alcançar uma aplicação eficiente.
+- Sou um Engenheiro Laravel dedicado a aprimorar constantemente minhas habilidades e conhecimentos em desenvolvimento de sistemas. Trabalho com o LIVT Stack (Laravel, Inertia, Vue, Tailwind CSS), uma combinação eficiente para criar aplicações web modernas e dinâmicas.
 
 - Estou sempre estudando as últimas tendências e melhores práticas do setor, com o objetivo de aprender e compartilhar conhecimento. Valorizo o crescimento colaborativo e procuro ajudar outros profissionais a evoluírem em suas carreiras.
   
@@ -24,6 +24,7 @@
 ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=flat&logo=vuedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38BDF8.svg?style=flat&logo=tailwind-css&logoColor=white)
 
+<!--
 <hr>
 
 ##### TALL Stack
@@ -31,6 +32,7 @@
 ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=flat&logo=alpinedotjs&logoColor=%238BC0D0)
 ![Livewire](https://img.shields.io/badge/livewire-FB70A9.svg?style=flat&logo=livewire&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+-->
 
 <hr>
 
