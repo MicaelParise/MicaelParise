@@ -52,6 +52,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
+<!--
 <hr>
 <h3 align="center">📊 Status GitHub:</h3>
 
@@ -63,3 +64,4 @@
   <img width="378" src="https://github-readme-stats.vercel.app/api?username=MicaelChaves&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true">
   <img width="418" src="https://github-readme-streak-stats.herokuapp.com/?user=MicaelChaves&theme=midnight-purple&hide_border=true">
 </div>
+-->
