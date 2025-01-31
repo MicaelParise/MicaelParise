@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=MicaelChaves&icon=2&color=6"></a>
-</div>
+</div> -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B3BF7&width=435&lines=Apenas+um+pequeno+aprendiz" alt="Typing SVG" />
 
