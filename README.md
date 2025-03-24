@@ -2,17 +2,19 @@
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=MicaelChaves&icon=2&color=6"></a>
 </div> -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B3BF7&width=435&lines=Apenas+um+pequeno+aprendiz" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B3BF7&width=435&lines=Apenas+um+aprendiz+de+programação!" alt="Typing SVG" />
+</div>
 
-<img src="https://media.licdn.com/dms/image/v2/D4D22AQHl-cXgH2ZkZg/feedshare-shrink_480/B4DZVceJa7G8AY-/0/1741013162613?e=1744243200&v=beta&t=ntfoTXi-iCoXe62E3lco35rGzU8KQQn4Aen8FYA6hlM" alt="Typing SVG" />
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQHl-cXgH2ZkZg/feedshare-shrink_480/B4DZVceJa7G8AY-/0/1741013162613?e=1744243200&v=beta&t=ntfoTXi-iCoXe62E3lco35rGzU8KQQn4Aen8FYA6hlM" alt="Typing SVG" />
+</div>
 
-<h3 align="center">💫 Sobre Mim:</h3>
+<hr>
 
 ### Desenvolvedor Laravel e Vue.js
 
-Atuo com PHP (Laravel) e JavaScript (Vue.js), com experiência em ferramentas como Tailwind CSS, Alpine.js, Bootstrap e GitHub. Também gerencio servidores utilizando DigitalOcean e Laravel Forge.
-
-Focado em desenvolver aplicações web modernas e funcionais.
+Sou um desenvolvedor com grande interesse em criar e aprimorar soluções digitais que simplificam processos complexos do dia a dia. Com experiência em Laravel e Vue.js, utilizo o padrão MVC para transformar desafios em plataformas eficientes e escaláveis.
   
 <div align="center">
   <a href="https://instagram.com/micaelgpchaves"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
