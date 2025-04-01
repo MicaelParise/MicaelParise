@@ -12,7 +12,7 @@
 
 <hr>
 
-### Desenvolvedor Laravel e Vue.js
+### Desenvolvedor Laravel
 
 Sou um desenvolvedor com grande interesse em criar e aprimorar soluções digitais que simplificam processos complexos do dia a dia. Com experiência em Laravel e Vue.js, utilizo o padrão MVC para transformar desafios em plataformas eficientes e escaláveis.
   
@@ -22,7 +22,6 @@ Sou um desenvolvedor com grande interesse em criar e aprimorar soluções digita
 </div>
 
 <hr>
-<h3 align="center">💻 Habilidades Técnicas:</h3>
 
 ##### LIVT Stack
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
