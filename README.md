@@ -29,8 +29,6 @@ Sou um desenvolvedor com grande interesse em criar e aprimorar soluções digita
 ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=flat&logo=vuedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38BDF8.svg?style=flat&logo=tailwind-css&logoColor=white)
 
-<hr>
-
 ##### Ferramentas
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
