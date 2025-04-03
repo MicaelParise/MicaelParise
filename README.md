@@ -12,7 +12,7 @@
 
 <hr>
 
-### Desenvolvedor Laravel
+### Desenvolvedor
 
 Sou um desenvolvedor com grande interesse em criar e aprimorar soluções digitais que simplificam processos complexos do dia a dia. Com experiência em Laravel e Vue.js, utilizo o padrão MVC para transformar desafios em plataformas eficientes e escaláveis.
   
