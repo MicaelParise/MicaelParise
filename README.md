@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B3BF7&width=435&lines=Apenas+um+aprendiz+de+programação!" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQHl-cXgH2ZkZg/feedshare-shrink_480/B4DZVceJa7G8AY-/0/1741013162613?e=1744243200&v=beta&t=ntfoTXi-iCoXe62E3lco35rGzU8KQQn4Aen8FYA6hlM" alt="Typing SVG" />
-</div>
-
 <hr>
 
 ### Desenvolvedor
