@@ -1,12 +1,4 @@
-<!-- <div align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=MicaelChaves&icon=2&color=6"></a>
-</div> -->
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B3BF7&width=435&lines=Software+Developer" alt="Typing SVG" />
-</div>
-
-<hr>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B3BF7&width=435&lines=Software+Developer+<3" alt="Typing SVG" />
 
 ### Desenvolvedor
 
