@@ -3,7 +3,7 @@
 </div> -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B3BF7&width=435&lines=Apenas+um+aprendiz+de+programação!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B3BF7&width=435&lines=Software+Developer" alt="Typing SVG" />
 </div>
 
 <hr>
