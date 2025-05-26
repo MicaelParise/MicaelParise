@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B3BF7&width=435&lines=Software+Developer+<3" alt="Typing SVG" />
 
-### Desenvolvedor
+### Desenvolvedor BackEnd
 
 Sou desenvolvedor backend com foco em criar soluções simples, eficientes e escaláveis. Guiado pelos princípios KISS, DRY e YAGNI — sempre buscando “fazer o necessário, de forma simples e sem repetir, evitando criar o que não vai usar”. Tenho sólida experiência com PHP e Laravel, com ênfase no desenvolvimento de APIs RESTful, arquitetura de sistemas e boas práticas de engenharia de software.
   
