@@ -1,8 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B3BF7&width=435&lines=Software+Developer+<3" alt="Typing SVG" />
 
-### Desenvolvedor BackEnd
+### Desenvolvedor de Software
 
-Sou desenvolvedor backend com foco em criar soluções simples, eficientes e escaláveis. Guiado pelos princípios KISS, DRY e YAGNI — sempre buscando “fazer o necessário, de forma simples e sem repetir, evitando criar o que não vai usar”. Tenho sólida experiência com PHP e Laravel, com ênfase no desenvolvimento de APIs RESTful, arquitetura de sistemas e boas práticas de engenharia de software.
+Sou desenvolvedor full-stack com foco em criar soluções simples, eficientes e escaláveis. Guiado pelos princípios KISS, DRY e YAGNI — sempre buscando “fazer o necessário, de forma simples e sem repetir, evitando criar o que não vai usar”. Tenho sólida experiência com PHP e Laravel, com ênfase na stack LIVT (Laravel, Inertia, Vue e Tailwind), arquitetura de sistemas e boas práticas de engenharia de software.
   
 <div align="center">
   <a href="https://instagram.com/micaelgpchaves"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
@@ -11,9 +11,13 @@ Sou desenvolvedor backend com foco em criar soluções simples, eficientes e esc
 
 <hr>
 
-##### Ferramentas
-![PHP](https://img.shields.io/badge/PHP-4479A1.svg?style=flat&logo=PHP&logoColor=white)
+##### LIVT Stack
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+![Inertia](https://img.shields.io/badge/inertia-9157EA.svg?style=flat&logo=inertia&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=flat&logo=vuedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38BDF8.svg?style=flat&logo=tailwind-css&logoColor=white)
+
+##### Ferramentas
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white)
 ![Laravel Forge](https://img.shields.io/badge/LaravelForge-18b69b.svg?style=flat&logo=laravel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
@@ -30,11 +34,8 @@ Sou desenvolvedor backend com foco em criar soluções simples, eficientes e esc
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
-##### LIVT Stack
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
-![Inertia](https://img.shields.io/badge/inertia-9157EA.svg?style=flat&logo=inertia&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=flat&logo=vuedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38BDF8.svg?style=flat&logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-4479A1.svg?style=flat&logo=PHP&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 
 <hr>
 <h3 align="center">📊 Status GitHub:</h3>
