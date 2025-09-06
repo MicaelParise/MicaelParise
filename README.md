@@ -21,7 +21,6 @@ Sou desenvolvedor full-stack com foco em criar soluções simples, eficientes e 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white)
 ![Laravel Forge](https://img.shields.io/badge/LaravelForge-18b69b.svg?style=flat&logo=laravel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 <!--
 <hr>
@@ -33,6 +32,7 @@ Sou desenvolvedor full-stack com foco em criar soluções simples, eficientes e 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/PHP-4479A1.svg?style=flat&logo=PHP&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
