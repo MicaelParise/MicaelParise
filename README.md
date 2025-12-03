@@ -29,8 +29,3 @@ Com uma experiência sólida em PHP, e utilizando como a principal stack o LIVT 
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white)
 ![Jquery](https://img.shields.io/badge/Jquery-%230F64A7.svg?style=flat&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-
-<div align="center">
-  <img width="349" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelParise&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-  <img width="451" src="https://github-contributor-stats.vercel.app/api?username=MicaelParise&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
-</div>
