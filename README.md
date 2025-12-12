@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B3BF7&width=435&lines=Desenvolvedor+de+Software+<3" alt="Typing SVG" />
+<img src='https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B3BF7&width=435&lines=<?php+echo+"Desenvolvedor+Web"+?>' alt="Typing SVG" />
 
 ### Um pouco sobre mim:
 
