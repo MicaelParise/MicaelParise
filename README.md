@@ -2,7 +2,7 @@
 
 ### Um pouco sobre mim:
 
-Sou desenvolvedor full-stack com foco em aplicações simples, eficientes e escaláveis. Sempre buscando criar um código limpo e que resolva problemas, fazendo o simples necessário e sem repetir, evitando criar o que não vai ser usado.
+Sou desenvolvedor full-stack com foco em aplicações simples, eficientes e escaláveis. Sempre buscando criar um código limpo e que resolva problemas.
 
 Com uma experiência sólida em PHP, e utilizando como a principal stack o LIVT (Laravel, Inertia, Vue e Tailwind), e boas práticas de engenharia de software.
   
