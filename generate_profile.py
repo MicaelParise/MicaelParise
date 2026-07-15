@@ -59,7 +59,7 @@ def spacer():
 
 
 LINES = [
-    header("micael@devos"),
+    header("micael@dev"),
     kv("Nome", "Micael Parise"),
     kv("Cargo", "Desenvolvedor Full-stack"),
     kv("Foco", "Back-end em PHP / Laravel"),
@@ -217,7 +217,7 @@ def render_svg(theme_name):
   <circle cx="24" cy="20" r="5" fill="#EF4444"><animate attributeName="opacity" values="1;0.55;1" dur="4s" repeatCount="indefinite"/></circle>
   <circle cx="42" cy="20" r="5" fill="#F59E0B"><animate attributeName="opacity" values="1;0.55;1" dur="4s" begin="0.3s" repeatCount="indefinite"/></circle>
   <circle cx="60" cy="20" r="5" fill="#10B981"><animate attributeName="opacity" values="1;0.55;1" dur="4s" begin="0.6s" repeatCount="indefinite"/></circle>
-  <text x="{width / 2}" y="25" text-anchor="middle" class="term-label">micael@devos ~ % ./perfil.sh --live</text>
+  <text x="{width / 2}" y="25" text-anchor="middle" class="term-label">micael@dev ~ % ./perfil.sh --live</text>
   <circle cx="{width - 58}" cy="20" r="4" fill="{theme['live_dot']}">
     <animate attributeName="opacity" values="1;0.15;1" dur="1.1s" repeatCount="indefinite"/>
   </circle>
