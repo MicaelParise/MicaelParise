@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="727" height="460" viewBox="0 0 727 460">
+<defs>
+  <linearGradient id="asciiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0E7490">
+      <animate attributeName="stop-color" values="#0E7490;#6D28D9;#0E7490" dur="9s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#6D28D9"/>
+  </linearGradient>
+  <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#6D28D9"/>
+    <stop offset="50%" stop-color="#0E7490"/>
+    <stop offset="100%" stop-color="#047857"/>
+  </linearGradient>
+  <radialGradient id="bgGlow" cx="30%" cy="15%" r="85%">
+    <stop offset="0%" stop-color="#F8FAFC"/>
+    <stop offset="100%" stop-color="#E2E8F0"/>
+  </radialGradient>
+  <linearGradient id="scanGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#0E7490" stop-opacity="0"/>
+    <stop offset="45%" stop-color="#0E7490" stop-opacity="0.05"/>
+    <stop offset="50%" stop-color="#67E8F9" stop-opacity="0.55"/>
+    <stop offset="55%" stop-color="#0E7490" stop-opacity="0.05"/>
+    <stop offset="100%" stop-color="#6D28D9" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="1" fill="#0F172A" opacity="0.035"/>
+  </pattern>
+  <clipPath id="lc0"><rect x="26" y="75" width="0" height="24"><animate attributeName="width" from="0" to="539.0" dur="0.708s" begin="0.3s" fill="freeze" calcMode="linear"/></rect></clipPath><clipPath id="lc1"><rect x="26" y="99" width="0" height="24"><animate attributeName="width" from="0" to="413.0" dur="0.54s" begin="1.058s" fill="freeze" calcMode="linear"/></rect></clipPath><clipPath id="lc2"><rect x="26" y="123" width="0" height="24"><animate attributeName="width" from="0" to="512.0" dur="0.672s" begin="1.648s" fill="freeze" calcMode="linear"/></rect></clipPath><clipPath id="lc3"><rect x="26" y="147" width="0" height="24"><animate attributeName="width" from="0" to="521.0" dur="0.684s" begin="2.37s" fill="freeze" calcMode="linear"/></rect></clipPath><clipPath id="lc4"><rect x="26" y="171" width="0" height="24"><animate attributeName="width" from="0" to="26.0" dur="0.08s" begin="3.104s" fill="freeze" calcMode="linear"/></rect></clipPath><clipPath id="lc5"><rect x="26" y="195" width="0" height="24"><animate attributeName="width" from="0" to="476.0" dur="0.624s" begin="3.234s" fill="freeze" calcMode="linear"/></rect></clipPath><clipPath id="lc6"><rect x="26" y="219" width="0" height="24"><animate attributeName="width" from="0" to="566.0" dur="0.744s" begin="3.908s" fill="freeze" calcMode="linear"/></rect></clipPath><clipPath id="lc7"><rect x="26" y="243" width="0" height="24"><animate attributeName="width" from="0" to="665.0" dur="0.876s" begin="4.702s" fill="freeze" calcMode="linear"/></rect></clipPath><clipPath id="lc8"><rect x="26" y="267" width="0" height="24"><animate attributeName="width" from="0" to="557.0" dur="0.732s" begin="5.628s" fill="freeze" calcMode="linear"/></rect></clipPath><clipPath id="lc9"><rect x="26" y="291" width="0" height="24"><animate attributeName="width" from="0" to="26.0" dur="0.08s" begin="6.41s" fill="freeze" calcMode="linear"/></rect></clipPath><clipPath id="lc10"><rect x="26" y="315" width="0" height="24"><animate attributeName="width" from="0" to="476.0" dur="0.624s" begin="6.54s" fill="freeze" calcMode="linear"/></rect></clipPath><clipPath id="lc11"><rect x="26" y="339" width="0" height="24"><animate attributeName="width" from="0" to="548.0" dur="0.72s" begin="7.214s" fill="freeze" calcMode="linear"/></rect></clipPath><clipPath id="lc12"><rect x="26" y="363" width="0" height="24"><animate attributeName="width" from="0" to="530.0" dur="0.696s" begin="7.984s" fill="freeze" calcMode="linear"/></rect></clipPath><clipPath id="lc13"><rect x="26" y="387" width="0" height="24"><animate attributeName="width" from="0" to="26.0" dur="0.08s" begin="8.73s" fill="freeze" calcMode="linear"/></rect></clipPath><clipPath id="lc14"><rect x="26" y="411" width="0" height="24"><animate attributeName="width" from="0" to="332.0" dur="0.432s" begin="8.86s" fill="freeze" calcMode="linear"/></rect></clipPath>
+  <style>
+    .key    { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #0E7490; font-weight: bold; }
+    .value  { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #1E293B; }
+    .cc     { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #94A3B8; }
+    .head   { font-family: 'Courier New', Consolas, monospace; font-size: 17px; fill: #6D28D9; font-weight: bold; }
+    .accent { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #047857; font-weight: bold; }
+    text, tspan { white-space: pre; }
+    .term-label { font-family: 'Courier New', Consolas, monospace; font-size: 12px; fill: #64748B; letter-spacing: 0.5px; }
+    .live-label { font-family: 'Courier New', Consolas, monospace; font-size: 10px; fill: #DC2626; letter-spacing: 1px; }
+    .cursor-blink { fill: #0E7490; }
+  </style>
+</defs>
+
+<rect width="727" height="460" rx="18" fill="url(#bgGlow)"/>
+<rect width="727" height="460" rx="18" fill="url(#scanlines)"/>
+
+<g id="titlebar">
+  <rect x="3" y="3" width="721" height="34" rx="16" fill="#FFFFFF" fill-opacity="0.85"/>
+  <circle cx="24" cy="20" r="5" fill="#EF4444"><animate attributeName="opacity" values="1;0.55;1" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="42" cy="20" r="5" fill="#F59E0B"><animate attributeName="opacity" values="1;0.55;1" dur="4s" begin="0.3s" repeatCount="indefinite"/></circle>
+  <circle cx="60" cy="20" r="5" fill="#10B981"><animate attributeName="opacity" values="1;0.55;1" dur="4s" begin="0.6s" repeatCount="indefinite"/></circle>
+  <text x="363.5" y="25" text-anchor="middle" class="term-label">micael@devos ~ % ./perfil.sh --live</text>
+  <circle cx="669" cy="20" r="4" fill="#DC2626">
+    <animate attributeName="opacity" values="1;0.15;1" dur="1.1s" repeatCount="indefinite"/>
+  </circle>
+  <text x="679" y="24" class="live-label">LIVE</text>
+</g>
+
+<g>
+  <g clip-path="url(#lc0)"><text x="30" y="0" fill="#0f172a"><tspan x="30" y="92" class="head">micael@devos</tspan><tspan class="cc"> -————————————————————————————————————————————-</tspan></text></g><g clip-path="url(#lc1)"><text x="30" y="0" fill="#0f172a"><tspan x="30" y="116" class="cc">. </tspan><tspan class="key">Nome</tspan><tspan class="cc">: ....................... </tspan><tspan class="value">Micael Parise</tspan></text></g><g clip-path="url(#lc2)"><text x="30" y="0" fill="#0f172a"><tspan x="30" y="140" class="cc">. </tspan><tspan class="key">Cargo</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">Desenvolvedor Full-stack</tspan></text></g><g clip-path="url(#lc3)"><text x="30" y="0" fill="#0f172a"><tspan x="30" y="164" class="cc">. </tspan><tspan class="key">Foco</tspan><tspan class="cc">: ....................... </tspan><tspan class="value">Back-end em PHP / Laravel</tspan></text></g><g clip-path="url(#lc4)"><text x="30" y="0" fill="#0f172a"><tspan x="30" y="188" class="cc">. </tspan></text></g><g clip-path="url(#lc5)"><text x="30" y="0" fill="#0f172a"><tspan x="30" y="212" class="accent">- Stack</tspan><tspan class="cc"> -———————————————————————————————————————————</tspan></text></g><g clip-path="url(#lc6)"><text x="30" y="0" fill="#0f172a"><tspan x="30" y="236" class="cc">. </tspan><tspan class="key">Back-end</tspan><tspan class="cc">: ................... </tspan><tspan class="value">PHP - Laravel - MySQL - SQLite</tspan></text></g><g clip-path="url(#lc7)"><text x="30" y="0" fill="#0f172a"><tspan x="30" y="260" class="cc">. </tspan><tspan class="key">Front-end</tspan><tspan class="cc">: .................. </tspan><tspan class="value">Blade - Alpine.js - Tailwind - Vue - Nuxt</tspan></text></g><g clip-path="url(#lc8)"><text x="30" y="0" fill="#0f172a"><tspan x="30" y="284" class="cc">. </tspan><tspan class="key">Infra</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">AWS - Docker - GitHub Actions</tspan></text></g><g clip-path="url(#lc9)"><text x="30" y="0" fill="#0f172a"><tspan x="30" y="308" class="cc">. </tspan></text></g><g clip-path="url(#lc10)"><text x="30" y="0" fill="#0f172a"><tspan x="30" y="332" class="accent">- Contato</tspan><tspan class="cc"> -—————————————————————————————————————————</tspan></text></g><g clip-path="url(#lc11)"><text x="30" y="0" fill="#0f172a"><tspan x="30" y="356" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">: ................... </tspan><tspan class="value">linkedin.com/in/micaelparise</tspan></text></g><g clip-path="url(#lc12)"><text x="30" y="0" fill="#0f172a"><tspan x="30" y="380" class="cc">. </tspan><tspan class="key">Instagram</tspan><tspan class="cc">: .................. </tspan><tspan class="value">instagram.com/micaelparise</tspan></text></g><g clip-path="url(#lc13)"><text x="30" y="0" fill="#0f172a"><tspan x="30" y="404" class="cc">. </tspan></text></g><g clip-path="url(#lc14)"><text x="30" y="0" fill="#0f172a"><tspan x="30" y="428" class="cc">. status: </tspan><tspan class="accent">pronto para novos desafios</tspan></text></g>
+  <rect x="30" y="77" width="7.0" height="19" class="cursor-blink" opacity="0">
+    <set attributeName="y" to="77" begin="0.3s"/><set attributeName="x" to="30" begin="0.3s"/><animate attributeName="x" from="30" to="561.0" dur="0.708s" begin="0.3s" fill="freeze" calcMode="linear"/><set attributeName="y" to="101" begin="1.058s"/><set attributeName="x" to="30" begin="1.058s"/><animate attributeName="x" from="30" to="435.0" dur="0.54s" begin="1.058s" fill="freeze" calcMode="linear"/><set attributeName="y" to="125" begin="1.648s"/><set attributeName="x" to="30" begin="1.648s"/><animate attributeName="x" from="30" to="534.0" dur="0.672s" begin="1.648s" fill="freeze" calcMode="linear"/><set attributeName="y" to="149" begin="2.37s"/><set attributeName="x" to="30" begin="2.37s"/><animate attributeName="x" from="30" to="543.0" dur="0.684s" begin="2.37s" fill="freeze" calcMode="linear"/><set attributeName="y" to="173" begin="3.104s"/><set attributeName="x" to="30" begin="3.104s"/><animate attributeName="x" from="30" to="48.0" dur="0.08s" begin="3.104s" fill="freeze" calcMode="linear"/><set attributeName="y" to="197" begin="3.234s"/><set attributeName="x" to="30" begin="3.234s"/><animate attributeName="x" from="30" to="498.0" dur="0.624s" begin="3.234s" fill="freeze" calcMode="linear"/><set attributeName="y" to="221" begin="3.908s"/><set attributeName="x" to="30" begin="3.908s"/><animate attributeName="x" from="30" to="588.0" dur="0.744s" begin="3.908s" fill="freeze" calcMode="linear"/><set attributeName="y" to="245" begin="4.702s"/><set attributeName="x" to="30" begin="4.702s"/><animate attributeName="x" from="30" to="687.0" dur="0.876s" begin="4.702s" fill="freeze" calcMode="linear"/><set attributeName="y" to="269" begin="5.628s"/><set attributeName="x" to="30" begin="5.628s"/><animate attributeName="x" from="30" to="579.0" dur="0.732s" begin="5.628s" fill="freeze" calcMode="linear"/><set attributeName="y" to="293" begin="6.41s"/><set attributeName="x" to="30" begin="6.41s"/><animate attributeName="x" from="30" to="48.0" dur="0.08s" begin="6.41s" fill="freeze" calcMode="linear"/><set attributeName="y" to="317" begin="6.54s"/><set attributeName="x" to="30" begin="6.54s"/><animate attributeName="x" from="30" to="498.0" dur="0.624s" begin="6.54s" fill="freeze" calcMode="linear"/><set attributeName="y" to="341" begin="7.214s"/><set attributeName="x" to="30" begin="7.214s"/><animate attributeName="x" from="30" to="570.0" dur="0.72s" begin="7.214s" fill="freeze" calcMode="linear"/><set attributeName="y" to="365" begin="7.984s"/><set attributeName="x" to="30" begin="7.984s"/><animate attributeName="x" from="30" to="552.0" dur="0.696s" begin="7.984s" fill="freeze" calcMode="linear"/><set attributeName="y" to="389" begin="8.73s"/><set attributeName="x" to="30" begin="8.73s"/><animate attributeName="x" from="30" to="48.0" dur="0.08s" begin="8.73s" fill="freeze" calcMode="linear"/><set attributeName="y" to="413" begin="8.86s"/><set attributeName="x" to="30" begin="8.86s"/><animate attributeName="x" from="30" to="354.0" dur="0.432s" begin="8.86s" fill="freeze" calcMode="linear"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="0.9s" begin="0.3s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<rect x="0" y="-70" width="727" height="70" fill="url(#scanGrad)" opacity="0.7" style="mix-blend-mode:screen">
+  <animateTransform attributeName="transform" type="translate" from="0 -70" to="0 530" dur="10.84s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="3" y="3" width="721" height="454" rx="16" fill="none" stroke="url(#borderGrad)" stroke-width="2" opacity="0.8">
+  <animate attributeName="opacity" values="0.5;0.95;0.5" dur="3.2s" repeatCount="indefinite"/>
+</rect>
+</svg>
