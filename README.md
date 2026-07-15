@@ -3,6 +3,8 @@
   <img alt="Perfil animado do Micael Parise" src="https://raw.githubusercontent.com/MicaelParise/MicaelParise/main/profile-light.svg">
 </picture>
 
+---
+
 Desenvolvedor full-stack com foco em back-end PHP/Laravel.
 Construo sistemas web robustos, do banco de dados à interface — priorizando código limpo, arquitetura simples e soluções que funcionam em produção.
 
