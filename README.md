@@ -11,7 +11,7 @@ Priorizo código limpo, arquitetura simples e soluções que funcionam em produ�
 
 <div>
   <a href="https://linkedin.com/in/micaelparise"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/micaelparise"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+  <a href="https://instagram.com/m.esirap"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
 </div>
 
 ---
